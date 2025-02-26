@@ -1,0 +1,17 @@
+/*
+* @file name: HK32L08x_Lib_Update_Version
+* @description: 本文件是用来描述HK32L08x系列芯片函数库版本列表
+* @author: AE Team
+*/
+
+V1.0.3/2024-08-21
+1. 更新PMU_Load补丁
+
+V1.0.2/2024-07-19
+1.更新hk32l0xx_adc.h文件
+
+V1.0.1/2024-03-16
+1.更新hk32l0xx_pwr.c文件
+
+V1.0.0/2024-01-25
+1. 首次发布

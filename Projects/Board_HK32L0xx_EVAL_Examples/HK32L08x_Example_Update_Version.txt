@@ -1,0 +1,15 @@
+/*
+* @file name: HK32L08x_Example_Update_Version
+* @description: 本文件是用来描述HK32L08x系列芯片例程版本列表
+* @author: AE Team
+*/
+
+V1.0.2/2024-08-21
+1. 删除PWR和RTC中Standby相关例程
+
+V1.0.1/2024-03-16
+1.更新RTC_AlarmWakeupStandby例程
+2.更新PWR_CurrentConsumption例程
+
+V1.0.0/2024-01-26
+1. 首次发布

@@ -1,0 +1,64 @@
+/*
+* @file name: HK32L08x_SDK_Update_Version
+* @description: 本文件是用来描述HK32L08x系列芯片SDK的版本变更
+* @author: AE Team
+*/
+
+V1.0.4/2024-12-02
+1.Kei_Pack: HK32L0xx_Keil_Pack_V1.0.11
+2.IAR_Pack: HK32L0xx_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.3
+4.Example: Board_HK32L0xx_EVAL_Examples_V1.0.2
+5.Datasheet: HK32L08x数据手册_V2.9
+6.UserManual: HK32L08x用户手册_V2.7
+7.ApplicationNotes: HK32L08x系列应用笔记_V1.0.14.docx
+8.API: HK32L0xx_API_V1.0.0
+9.开发板: HK32L0xx开发板_V1.0.0
+
+
+V1.0.3/2024-08-26
+1.Kei_Pack: HK32L0xx_Keil_Pack_V1.0.11
+2.IAR_Pack: HK32L0xx_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.3
+4.Example: Board_HK32L0xx_EVAL_Examples_V1.0.2
+5.Datasheet: HK32L08x_HK32L0Hx数据手册_V2.7
+6.UserManual: HK32L08x_HK32L0Hx用户手册_V2.4
+7.ApplicationNotes: HK32L08x系列应用笔记_V1.0.13.docx
+8.API: HK32L0xx_API_V1.0.0
+9.开发板: HK32L0xx开发板_V1.0.0
+
+
+V1.0.2/2024-07-19
+1.Kei_Pack: HK32L0xx_Keil_Pack_V1.0.11
+2.IAR_Pack: HK32L0xx_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.2
+4.Example: Board_HK32L0xx_EVAL_Examples_V1.0.1
+5.Datasheet: HK32L08x_HK32L0Hx数据手册_V2.6
+6.UserManual: HK32L08x_HK32L0Hx用户手册_V2.3
+7.ApplicationNotes: HK32L08x系列应用笔记_V1.0.11.docx
+8.API: HK32L0xx_API_V1.0.0
+9.开发板: HK32L0xx开发板_V1.0.0
+
+
+V1.0.1/2024-03-16
+1.Kei_Pack: HK32L0xx_Keil_Pack_V1.0.11
+2.IAR_Pack: HK32L0xx_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.1
+4.Example: Board_HK32L0xx_EVAL_Examples_V1.0.1
+5.Datasheet: HK32L08x_HK32L0Hx数据手册_V2.5
+6.UserManual: HK32L08x_HK32L0Hx用户手册_V2.1
+7.ApplicationNotes: HK32L08x系列应用笔记_V1.0.10.docx
+8.API: HK32L0xx_API_V1.0.0
+9.开发板: HK32L0xx开发板_V1.0.0
+
+
+V1.0.0/2024-01-29
+1.Kei_Pack: HK32L0xx_Keil_Pack_V1.0.10
+2.IAR_Pack: HK32L0xx_IAR_Pack_V1.0.0
+3.Libraries: Libraries_V1.0.0
+4.Example: Board_HK32L0xx_EVAL_Examples_V1.0.0
+5.Datasheet: HK32L08x_HK32L0Hx_Datasheet_V1.5,HK32L08x_HK32L0Hx数据手册_V2.4
+6.UserManual: HK32L08x_HK32L0Hx用户手册_V2.0
+7.ApplicationNotes: HK32L08x系列应用笔记_V1.0.8.docx
+8.API: HK32L0xx_API_V1.0.0
+9.开发板: HK32L0xx开发板_V1.0.0

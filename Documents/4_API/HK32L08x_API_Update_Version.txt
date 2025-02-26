@@ -1,0 +1,8 @@
+/*
+* @file name: HK32L08x_API_Update_Version
+* @description: 本文件是用来描述HK32L08x系列芯片API文档版本列表
+* @author: AE Team
+*/
+
+V1.0.0/2024-01-25
+1. 首次发布
